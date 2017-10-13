@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hazelcast-offloadable-ep-test.iml" filepath="$PROJECT_DIR$/hazelcast-offloadable-ep-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/hazelcastoffloadableeptest.iml" filepath="$PROJECT_DIR$/hazelcastoffloadableeptest.iml" />
     </modules>
   </component>
