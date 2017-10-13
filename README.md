@@ -27,5 +27,4 @@ java -Xmx512m -XX:+HeapDumpOnOutOfMemoryError -cp hazelcast-offloadable-ep-test-
 ### Running HzClient 
 ```
 java -cp hazelcast-offloadable-ep-test-1.0-SNAPSHOT.jar com.oner.HzClient
-
 ```
